@@ -1,7 +1,7 @@
 # AngularCrash
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.\
-This is application includes all the CRUD operations for managing the tasks. This includes all the basic angular functionality like string interpolation, 2 way binding, services, http methods handling, Forms, Observables, Subject, Subscription and Routing.
+This small application includes all the CRUD operations for managing the tasks. This includes all the basic angular functionality like string interpolation, 2 way binding, services, http methods handling, Forms, Observables, Subject, Subscription and Routing.
 
 ## Development server
 
